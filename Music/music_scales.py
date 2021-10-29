@@ -21,7 +21,7 @@
 # TODO List:
 #   
 #   Implement the code with Tkinter for a better interface
-#   Random geretation of chord progressions    
+#   Random genetation of chord progressions    
 #   Random generation of string and fret combinations for a given scale
 #
 
